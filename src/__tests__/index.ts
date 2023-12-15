@@ -1,6 +1,6 @@
 import { createHash } from '../index';
 
-describe('XHash test suite', () => {
+describe('UpHash test suite', () => {
   it('should createHash without arguments', () => {
     createHash();
   });
